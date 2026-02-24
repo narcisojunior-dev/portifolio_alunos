@@ -1,2 +1,11 @@
-# portifolio_alunos
-aula de criação de portifólio para os alunos do 3° ano Desenvolvimento de sistemas
+├── Assets 
+      ├── css
+      ├── styles.css
+├── images
+    ├── avatar.png
+    └── project1.png
+    ├── project2.png
+    ├── project6.png
+├── js
+    ├── Main.js
+├── index.html*
